@@ -57,3 +57,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Application Link
+
+To access the deployed application [click here](https://extractiondeconnaissances-gudaijqninhvq9zjvt2niw.streamlit.app/).
